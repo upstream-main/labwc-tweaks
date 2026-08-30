@@ -36,7 +36,7 @@
     <message>
         <location filename="../../src/appearance.cpp" line="74"/>
         <source>Show server side decorations on maximized windows</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض الزخارف من جانب الخادم على النوافذ المكبّرة</translation>
     </message>
     <message>
         <location filename="../../src/appearance.cpp" line="77"/>
@@ -54,7 +54,7 @@
     <message>
         <location filename="../../src/behaviour.cpp" line="23"/>
         <source>Placement policy for new windows</source>
-        <translation type="unfinished"></translation>
+        <translation>طريقة تحديد مكان ظهور النوافذ الجديدة عند فتحها</translation>
     </message>
     <message>
         <location filename="../../src/behaviour.cpp" line="25"/>
@@ -64,12 +64,12 @@
     <message>
         <location filename="../../src/behaviour.cpp" line="26"/>
         <source>Cascade</source>
-        <translation>متتابع</translation>
+        <translation>متدرّج</translation>
     </message>
     <message>
         <location filename="../../src/behaviour.cpp" line="27"/>
         <source>Center</source>
-        <translation>في الوسط</translation>
+        <translation>في المنتصف</translation>
     </message>
     <message>
         <location filename="../../src/behaviour.cpp" line="28"/>
@@ -79,22 +79,22 @@
     <message>
         <location filename="../../src/behaviour.cpp" line="43"/>
         <source>Focus is given to window under mouse cursor</source>
-        <translation type="unfinished"></translation>
+        <translation>يُمنح التركيز للنافذة الواقعة تحت مؤشر الفأرة تلقائياً</translation>
     </message>
     <message>
         <location filename="../../src/behaviour.cpp" line="50"/>
         <source>Requires cursor movement if followMouse is enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>يشترط حركة مؤشر الفأرة عند تفعيل «يتطلب حركة المؤشر»</translation>
     </message>
     <message>
         <location filename="../../src/behaviour.cpp" line="69"/>
         <source>Delay before raising the window</source>
-        <translation type="unfinished"></translation>
+        <translation>مدة الانتظار قبل أن تطلع النافذة فوق باقي النوافذ</translation>
     </message>
     <message>
         <location filename="../../src/behaviour.cpp" line="83"/>
         <source>Distance between windows and output edges when using movement actions</source>
-        <translation type="unfinished"></translation>
+        <translation>المسافة بين النوافذ وحواف الشاشة عند استخدام إجراءات النقل</translation>
     </message>
     <message>
         <location filename="../../src/behaviour.cpp" line="88"/>
@@ -104,7 +104,7 @@
     <message>
         <location filename="../../src/behaviour.cpp" line="93"/>
         <source>Show an overlay when snapping a window to an output edge</source>
-        <translation type="unfinished"></translation>
+        <translation>إظهار طبقة المعاينة عند التصاق النافذة بحافة الشاشة</translation>
     </message>
     <message>
         <location filename="../../src/behaviour.cpp" line="105"/>
@@ -126,69 +126,69 @@
         <location filename="../../src/behaviour.cpp" line="108"/>
         <location filename="../../src/behaviour.cpp" line="169"/>
         <source>Never</source>
-        <translation>مطلقًا</translation>
+        <translation>أبدًا</translation>
     </message>
     <message>
         <location filename="../../src/behaviour.cpp" line="136"/>
         <source>Movement of cursor required for a tiled or maximized window to be moved</source>
-        <translation type="unfinished"></translation>
+        <translation>مقدار السحب لفكّ النافذة الملتصقة</translation>
     </message>
     <message>
         <location filename="../../src/behaviour.cpp" line="159"/>
         <source>Specify the thickness of border grab areas for the
 purposes of resizing windows</source>
-        <translation type="unfinished"></translation>
+        <translation>سُمك حافة النافذة التي تمسكها لتغيير حجمها</translation>
     </message>
     <message>
         <location filename="../../src/behaviour.cpp" line="58"/>
         <source>Raise window to front when focused</source>
-        <translation type="unfinished"></translation>
+        <translation>رفع النافذة إلى المقدمة عند حصولها على التركيز</translation>
     </message>
     <message>
         <location filename="../../src/behaviour.cpp" line="98"/>
         <source>Maximize instead of snapping on top edge</source>
-        <translation type="unfinished"></translation>
+        <translation>تكبير النافذة بدلاً من إلصاقها عند الحافة العلوية</translation>
     </message>
     <message>
         <location filename="../../src/behaviour.cpp" line="102"/>
         <source>Snapping windows can trigger corresponding
 tiling events for native Wayland applications</source>
-        <translation type="unfinished"></translation>
+        <translation>عند التصاق النافذة، يمكن إرسال إشعار التجانب لتطبيقات Wayland الأصلية</translation>
     </message>
     <message>
         <location filename="../../src/behaviour.cpp" line="126"/>
         <source>Resist interactive moves and resizes of a window
  across screen edges</source>
-        <translation type="unfinished"></translation>
+        <translation>مقاومة تحريك النافذة أو تغيير حجمها عند عبور حواف الشاشة</translation>
     </message>
     <message>
         <location filename="../../src/behaviour.cpp" line="131"/>
         <source>Resist interactive moves and resizes of a window
  across the edges of any other window</source>
-        <translation type="unfinished"></translation>
+        <translation>مقاومة تمنع تجاوز حواف النوافذ الأخرى</translation>
     </message>
     <message>
         <location filename="../../src/behaviour.cpp" line="141"/>
         <source>One-dimensional movement of cursor required for
 a vertically or horizontally maximized window to be moved</source>
-        <translation type="unfinished"></translation>
+        <translation>مقدار السحب لفكّ تكبير النافذة</translation>
     </message>
     <message>
         <location filename="../../src/behaviour.cpp" line="146"/>
         <source>Application redraws its contents while resizing.
 If disabled, an outlined rectangle is shown</source>
-        <translation type="unfinished"></translation>
+        <translation>يُحدّث محتوى النافذة مباشرةً أثناء تغيير حجمها، وعند تعطيله يظهر إطار فارغ فقط حتى تُفلت النافذة</translation>
     </message>
     <message>
         <location filename="../../src/behaviour.cpp" line="153"/>
         <source>Size of corner regions to which all &apos;Corner&apos; mousebinds contexts apply
  as well size of border region for which mouse resizing will apply in any direction.</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم مناطق الزوايا والحواف التي تمسكها بالفأرة لتغيير حجم النافذة في أي اتجاه</translation>
     </message>
     <message>
         <location filename="../../src/behaviour.cpp" line="167"/>
         <source>Show a small indicator on top of the window when resizing or moving</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض مربع صغير على النافذة يبيّن أبعادها أثناء التحريك أو تغيير الحجم</translation>
     </message>
     <message>
         <location filename="../../src/behaviour.cpp" line="171"/>
@@ -199,22 +199,22 @@ If disabled, an outlined rectangle is shown</source>
         <location filename="../../src/behaviour.cpp" line="187"/>
         <location filename="../../src/behaviour.cpp" line="191"/>
         <source>For full screen magnifier set to -1</source>
-        <translation type="unfinished"></translation>
+        <translation>اضبط القيمة على -1 لكي تُكبّر العدسة الشاشة بأكملها</translation>
     </message>
     <message>
         <location filename="../../src/behaviour.cpp" line="195"/>
         <source>Initial number of times by which magnified image is scaled</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد مرات تكبير الصورة عند تشغيل العدسة لأول مرة</translation>
     </message>
     <message>
         <location filename="../../src/behaviour.cpp" line="199"/>
         <source>Steps for changes on each call to &apos;ZoomIn&apos; or &apos;ZoomOut&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>مقدار تغيّر التكبير مع كل ضغطة على زر التكبير أو التصغير</translation>
     </message>
     <message>
         <location filename="../../src/behaviour.cpp" line="203"/>
         <source>Apply a bilinear filter to the magnified image</source>
-        <translation type="unfinished"></translation>
+        <translation>تنعيم الصورة المُكبَّرة حتى لا تظهر مربعات البكسل</translation>
     </message>
 </context>
 <context>
@@ -500,7 +500,7 @@ If disabled, an outlined rectangle is shown</source>
     <message>
         <location filename="../../src/maindialog.cpp" line="55"/>
         <source>Mouse &amp; Touchpad</source>
-        <translation>الفأرة و لوح اللمس</translation>
+        <translation>الفأرة ولوحة اللمس</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.cpp" line="59"/>
@@ -523,63 +523,63 @@ If disabled, an outlined rectangle is shown</source>
     <message>
         <location filename="../../src/mouse.cpp" line="58"/>
         <source>Flat</source>
-        <translation type="unfinished"></translation>
+        <translation>مسطّح</translation>
     </message>
     <message>
         <location filename="../../src/mouse.cpp" line="59"/>
         <source>Adaptive</source>
-        <translation type="unfinished"></translation>
+        <translation>تكيّفي</translation>
     </message>
     <message>
         <location filename="../../src/mouse.cpp" line="78"/>
         <source>left-right-middle</source>
-        <translation type="unfinished"></translation>
+        <translation>يسار - يمين - أوسط</translation>
     </message>
     <message>
         <location filename="../../src/mouse.cpp" line="79"/>
         <source>left-middle-right</source>
-        <translation type="unfinished"></translation>
+        <translation>يسار - أوسط - يمين</translation>
     </message>
     <message>
         <location filename="../../src/mouse.cpp" line="132"/>
         <location filename="../../src/mouse.cpp" line="153"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>بدون</translation>
     </message>
     <message>
         <location filename="../../src/mouse.cpp" line="133"/>
         <source>Button Area</source>
-        <translation type="unfinished"></translation>
+        <translation>مناطق الأزرار</translation>
     </message>
     <message>
         <location filename="../../src/mouse.cpp" line="134"/>
         <source>Clickfinger</source>
-        <translation type="unfinished"></translation>
+        <translation>النقر بالأصابع</translation>
     </message>
     <message>
         <location filename="../../src/mouse.cpp" line="150"/>
         <source>Two Finger</source>
-        <translation type="unfinished"></translation>
+        <translation>بإصبعين</translation>
     </message>
     <message>
         <location filename="../../src/mouse.cpp" line="151"/>
         <source>Edge</source>
-        <translation type="unfinished"></translation>
+        <translation>عند الحافة</translation>
     </message>
     <message>
         <location filename="../../src/mouse.cpp" line="152"/>
         <source>On Button</source>
-        <translation type="unfinished"></translation>
+        <translation>بزر معيّن</translation>
     </message>
     <message>
         <location filename="../../src/mouse.cpp" line="174"/>
         <source>Enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>مفعّلة</translation>
     </message>
     <message>
         <location filename="../../src/mouse.cpp" line="176"/>
         <source>Disable with external mouse</source>
-        <translation type="unfinished"></translation>
+        <translation>تُعطَّل عند وجود فأرة خارجية</translation>
     </message>
 </context>
 <context>
@@ -587,12 +587,12 @@ If disabled, an outlined rectangle is shown</source>
     <message>
         <location filename="../../src/main.cpp" line="56"/>
         <source>Error loading </source>
-        <translation type="unfinished"></translation>
+        <translation>حدث خطأ أثناء التحميل </translation>
     </message>
     <message>
         <location filename="../../src/main.cpp" line="58"/>
         <source>Run labwc-tweaks from a terminal to view error messages</source>
-        <translation type="unfinished"></translation>
+        <translation>افتح labwc-tweaks من الطرفية لرؤية تفاصيل الخطأ</translation>
     </message>
 </context>
 <context>
@@ -605,22 +605,22 @@ If disabled, an outlined rectangle is shown</source>
     <message>
         <location filename="../../src/touchscreen.cpp" line="24"/>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>عادي</translation>
     </message>
     <message>
         <location filename="../../src/touchscreen.cpp" line="25"/>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>يسار</translation>
     </message>
     <message>
         <location filename="../../src/touchscreen.cpp" line="26"/>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>يمين</translation>
     </message>
     <message>
         <location filename="../../src/touchscreen.cpp" line="27"/>
         <source>Inverted</source>
-        <translation type="unfinished"></translation>
+        <translation>مقلوب</translation>
     </message>
 </context>
 <context>
@@ -707,7 +707,7 @@ If disabled, an outlined rectangle is shown</source>
     <message>
         <location filename="../../src/appearance.ui" line="83"/>
         <source>Enable on tiled windows</source>
-        <translation>تفعيلها على النوافذ المبلطة</translation>
+        <translation>تمكينها على النوافذ المبلطة</translation>
     </message>
     <message>
         <location filename="../../src/appearance.ui" line="100"/>
@@ -794,7 +794,7 @@ If disabled, an outlined rectangle is shown</source>
     <message>
         <location filename="../../src/behaviour.ui" line="176"/>
         <source> ms</source>
-        <translation type="unfinished"></translation>
+        <translation> مللي ثانية</translation>
     </message>
     <message>
         <location filename="../../src/behaviour.ui" line="189"/>
@@ -870,7 +870,7 @@ If disabled, an outlined rectangle is shown</source>
     <message>
         <location filename="../../src/behaviour.ui" line="386"/>
         <source>Show popup</source>
-        <translation>إظهار المؤشر المنبثق</translation>
+        <translation>إظهار نافذة الأبعاد المنبثقة</translation>
     </message>
     <message>
         <location filename="../../src/behaviour.ui" line="406"/>
@@ -1059,7 +1059,7 @@ If disabled, an outlined rectangle is shown</source>
     <message>
         <location filename="../../src/touchscreen.ui" line="22"/>
         <source>Touchscreen</source>
-        <translation type="unfinished"></translation>
+        <translation>شاشة اللمس</translation>
     </message>
     <message>
         <location filename="../../src/touchscreen.ui" line="34"/>
